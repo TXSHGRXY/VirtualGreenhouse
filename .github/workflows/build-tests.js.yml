@@ -21,4 +21,4 @@ jobs:
           node-version: 24
       - run: npm ci
       - run: npm run build
-      - run: npm preview
+      - run: npm run preview
